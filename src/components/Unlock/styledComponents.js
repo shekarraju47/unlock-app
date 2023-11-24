@@ -17,8 +17,8 @@ export const Heading = styled.p`
 `
 
 export const LockImg = styled.img`
-  width: 100px;
-  height: 100px;
+  width: 110px;
+  height: 110px;
 `
 
 export const Button = styled.button`
